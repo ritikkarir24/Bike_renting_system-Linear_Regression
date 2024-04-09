@@ -39,7 +39,7 @@ BoomBikes wants to understand the factors on which the demand for these shared b
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@ritikkarir24] - feel free to contact me!
+Created by [[@ritikkarir24](https://github.com/ritikkarir24)] - feel free to contact me!
 
 
 <!-- Optional -->
