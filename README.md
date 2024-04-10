@@ -15,7 +15,6 @@ BoomBikes wants to understand the factors on which the demand for these shared b
 * Training the model on train set
 * Residual analysis on Train set
 * Prediction and Evaluation on Test set
-* Verifying the same with automated approach using RFE
 
 <!-- You can include any other section that is pertinent to your problem -->
 
